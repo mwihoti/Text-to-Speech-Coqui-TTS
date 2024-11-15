@@ -2,6 +2,10 @@
 
 A modern text-to-speech application built with Gradio and Coqui TTS, featuring multiple voices, language support, and waveform visualization.
 
+<img src="./public/ttsdemo.png" alt="TTS-Demo" />
+
+video Link = { https://www.kapwing.com/videos/673786cf288ac7a566d6e2a1}
+
 # Features
 🎯 Convert text to natural-sounding speech
 🗣️ Multiple voice options (6 different speakers)
